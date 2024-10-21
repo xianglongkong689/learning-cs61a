@@ -36,7 +36,7 @@ ______23
 ______6
 >>> xk(0, 0)
 ______25
-
+```python
 >>> def how_big(x):
 ...     if x > 10:
 ...         print('huge')
@@ -61,7 +61,7 @@ None
 ______positive
 0
 None None
-
+```python
 >>> n = 3
 >>> while n >= 0:
 ...     n -= 1
@@ -70,7 +70,7 @@ ______2
 1
 0
 -1
-
+```python
 >>> negative = -12
 >>> while negative:  # All numbers are true values except 0
 ...    if negative + 6:
