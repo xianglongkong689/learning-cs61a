@@ -20,7 +20,7 @@ using ok test the function(*python ok -q FUNCTION*(函数名字，用大写替�
 
 ### What Would Python Display?(WWPD)
 #### Q1 WWPD:Control
-'''python
+```python
 >>> def xk(c, d):
 ...     if c == 4:
 ...         return 6
