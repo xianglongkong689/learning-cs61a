@@ -4,7 +4,7 @@ recording the progress of learning cs61a
 ## lab 01 Functions,control
 ### review:
 #### common ways to run codes
-1. *no command*:using terminal test the code:run code(*python filename*),
+1. *no command*:using terminal test the code:run code(*python filename*),you will see no output unless there is a syntax error.
 2. *-m*:doctest(文件测试)(*python -m doctest filename*)(when doc passed the test, no output displayed.otherwise,failed information displayed).
 3. *-i*:run the codes and open a interactive session.
 #### ok
