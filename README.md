@@ -1,7 +1,7 @@
 # learning-cs61a
 recording the progress of learning cs61a
 
-lab 01 Functions,control
+##lab 01 Functions,control
 review:
 1.using terminal test the code:run code(python filename), 
 doctest(文件测试)(python -m doctest filename)(when doc passed the test, no output displayed.otherwise,failed information displayed).
