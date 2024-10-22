@@ -82,3 +82,20 @@ ______2
 ______-12
 -9
 -3
+
+#### Q2 Debug Quiz
+
+### Write code
+#### Q3 Falling factorial
+Write a code that takes two arguement n and k, return conduct of k consecutive numbers starts with n and working downward. when k = 0, return 1.
+
+#### Q4 Dvisible by k
+Write a function that takes two arguments n and k. It print all positive interges less than or equal to n that divisible by k.Then, return how many number printed.
+
+#### Q5 Sum digits
+Write a function takes a nonnegative integer and sums its digits.
+
+#### Q6 WWPD
+
+#### Q7 Double eights
+Write a function takes a number and determines if contain two adjacent 8
