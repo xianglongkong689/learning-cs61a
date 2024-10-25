@@ -17,8 +17,8 @@ don't check your implementation using computer right away
 4. if is return false
 
 ## Unique digits
-**Write a Function that return number of unique digits in a positive integer**
-the one idea: draw out the last one of integer and check the rest one if have the same number
+**Write a Function that return number of unique digits in a positive integer**  
+the one idea: draw out the last one of integer and check the rest one if have the same number  
 main function:
 1. using n%10 draw out the last one(last)
 2. using a function check the rest one
