@@ -1,3 +1,4 @@
+```python
 def make_keeper(n):
  """Returns a function that takes one parameter cond and prints
  out all integers 1..i..n where calling cond(i) returns True.
@@ -63,3 +64,4 @@ def make_keeper(n):
  x //= 10
  return True
  return check
+```
